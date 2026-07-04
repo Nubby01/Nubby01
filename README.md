@@ -8,7 +8,7 @@
 
 **Desarrolladora Front-End · React · JavaScript**
 
-Estudiante de Programación Front-End · DUOC UC
+Técnico de Nivel Superior en Análisis de Sistemas Computacionales y Estudiante de Ingeniería en Informática · INACAP
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nubby01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nubby01)
 
@@ -85,18 +85,6 @@ Landing de **barbería y visagismo**: servicios, estilo de marca, galería y con
 [![Demo](https://img.shields.io/badge/Demo-Vercel-8A63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://saezbarber.vercel.app)
 
 `HTML` · `CSS` · `JavaScript` · UI mobile-first
-
----
-
-### GitHub
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nubby01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ec4ff&icon_color=6c4dff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nubby01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ec4ff)
-
-</div>
 
 ---
 
