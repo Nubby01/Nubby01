@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/Nubby01/Nubby01/blob/main/yo.jpeg?raw=true" alt="Anthara Sáez — formal" width="150" style="border-radius: 50%; border: 3px solid #2ec4ff; margin: 0 10px;" />
 <img src="https://github.com/Nubby01/Nubby01/blob/main/yo%202.jpeg?raw=true" alt="Anthara Sáez — casual" width="150" style="border-radius: 50%; border: 3px solid #6c4dff; margin: 0 10px;" />
 
 <br />
-<sub>Formal · Casual</sub>
 
 # Anthara Sáez
 
