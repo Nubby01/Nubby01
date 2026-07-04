@@ -71,7 +71,6 @@ SPA corporativa para servicios digitales: catálogo, registro con validación de
 Sitio web para marca de **perfumería y lujo**: presentación de productos, identidad visual elegante y navegación orientada a la experiencia del cliente.
 
 [![Repo](https://img.shields.io/badge/Repositorio-Lusso-111B3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nubby01/Lusso)
-[![Demo](https://img.shields.io/badge/Demo-Vercel-2EC4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://lusso.vercel.app)
 
 `HTML` · `CSS` · `JavaScript` · diseño responsive
 
@@ -82,7 +81,6 @@ Sitio web para marca de **perfumería y lujo**: presentación de productos, iden
 Landing de **barbería y visagismo**: servicios, estilo de marca, galería y contacto para reservas. Pensada para comunicar la identidad del negocio de forma clara y profesional.
 
 [![Repo](https://img.shields.io/badge/Repositorio-SaezBarber-6C4DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nubby01/SaezBarber)
-[![Demo](https://img.shields.io/badge/Demo-Vercel-8A63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://saezbarber.vercel.app)
 
 `HTML` · `CSS` · `JavaScript` · UI mobile-first
 
