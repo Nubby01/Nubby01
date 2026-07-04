@@ -6,7 +6,7 @@
 
 # Anthara Sáez
 
-**Desarrolladora Front-End · React · JavaScript**
+**Desarrolladora Front-End**
 
 Técnico de Nivel Superior en Análisis de Sistemas Computacionales y Estudiante de Ingeniería en Informática · INACAP
 
