@@ -84,18 +84,6 @@ Landing de **barbería y visagismo**: servicios, estilo de marca, galería y con
 
 ---
 
-### GitHub
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nubby01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ec4ff&icon_color=6c4dff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nubby01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2ec4ff)
-
-</div>
-
----
-
 ### Contacto
 
 <div align="center">
